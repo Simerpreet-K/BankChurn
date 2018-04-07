@@ -23,8 +23,8 @@ My Tableau workbook for Churn Data Modelling can be found [here](https://public.
 > Validation using Chi-Squared test- The results are validated to be statistical significant by conducting Chi-squared test using online tools as well as MS Excel, which gave the same result as visualized from Tableau workbook.
 
 The link to online tools 
-https://www.evanmiller.org/ab-testing/chi-squared.html
-http://vassarstats.net/newcs.html
+- https://www.evanmiller.org/ab-testing/chi-squared.html
+- http://vassarstats.net/newcs.html
 
 **Balance and Estimated Salary Analysis –** these variables does not have much impact on the likelihood of a person to leave the bank. Balance bins and Estimated Salary gives an average of 20% exit level of customers with some fluctuations in it. 
  
