@@ -19,10 +19,13 @@ My Tableau workbook for Churn Data Modelling can be found [here] (https://public
 > Validation- The data be validated by finding a variable that ensure that it does not affect the end result. I run a test on it, by creating a calculated field on Customer Id’s last digits. It gives a uniform result with customers with same digit has same probability of leaving the bank as average of 20% with some fluctuations. This validated the approach as well as the sample data set selected for the analysis. 
 
 **Age analysis-** The demographic of bank customers is mostly between the age group of 30 to 40. It is visualized in the tableau workbook using bins. It is visualized the people on the lower and higher age band are less likely to leave the bank. Customers between the age group of 45 and 60 are leaving the bank above average of 20%. 
+
 > Validation using Chi-Squared test- The results are validated to be statistical significant by conducting Chi-squared test using online tools as well as MS Excel, which gave the same result as visualized from Tableau workbook.
+
 The link to online tools 
 https://www.evanmiller.org/ab-testing/chi-squared.html
 http://vassarstats.net/newcs.html
+
 **Balance and Estimated Salary Analysis –** these variables does not have much impact on the likelihood of a person to leave the bank. Balance bins and Estimated Salary gives an average of 20% exit level of customers with some fluctuations in it. 
  
 
