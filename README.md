@@ -1,8 +1,8 @@
 ## Churn Data Modelling Project
 In Bank Tableau story I investigated and explored data set of bank in countries such as France, Germany and Spain. I came up with the insights and draw useful conclusions. Which customers are leaving the bank, residing in which particular region or of age group? The data is randomly selected total of ten thousand customers on which Ad-hoc A-B testing is conducted using various Dimensions and Measures.
-The Churn Modelling data set can be found [here] (https://www.superdatascience.com/training/):
+The Churn Modelling data set can be found [here](https://www.superdatascience.com/training/)
 
-My Tableau workbook for Churn Data Modelling can be found [here] (https://public.tableau.com/profile/sim6166#!/):
+My Tableau workbook for Churn Data Modelling can be found [here](https://public.tableau.com/profile/sim6166#!/)
 
 **Gender A-B test-** For this test, Gender and Exited is used to know who will most likely exit the bank either males or females.
 
